@@ -3,5 +3,5 @@
 .vscode/
 
 # Text files
-.txt
-.in
+*.txt
+*.in
